@@ -1,0 +1,9 @@
+id,lat,lon,category,timestamp
+complaint-001,34.0529,-118.2615,Illegal Dumping,2025-03-20T14:32:00Z
+complaint-002,34.0392,-118.2784,Noise,2025-02-15T10:12:00Z
+complaint-003,34.0563,-118.2467,Air Pollution,2025-03-02T18:45:00Z
+complaint-004,34.0965,-118.3234,Water Waste,2025-01-28T08:20:00Z
+complaint-005,33.9991,-118.2945,Illegal Dumping,2025-03-25T12:05:00Z
+complaint-006,34.0624,-118.2212,Noise,2025-02-05T23:18:00Z
+complaint-007,34.0366,-118.1968,Air Pollution,2025-03-10T07:50:00Z
+complaint-008,34.0727,-118.3122,Water Waste,2025-03-18T15:10:00Z
