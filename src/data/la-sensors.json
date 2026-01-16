@@ -1,0 +1,122 @@
+[
+  {
+    "id": "AQ-01",
+    "name": "Downtown LA Sensor",
+    "latitude": 34.0407,
+    "longitude": -118.2468,
+    "pm25": 18.6,
+    "ozone": 32,
+    "nox": 41,
+    "humidity": 46
+  },
+  {
+    "id": "AQ-02",
+    "name": "Santa Monica Pier",
+    "latitude": 34.0094,
+    "longitude": -118.4973,
+    "pm25": 11.2,
+    "ozone": 24,
+    "nox": 22,
+    "humidity": 61
+  },
+  {
+    "id": "AQ-03",
+    "name": "Pasadena Civic Center",
+    "latitude": 34.1478,
+    "longitude": -118.1445,
+    "pm25": 14.3,
+    "ozone": 27,
+    "nox": 33,
+    "humidity": 41
+  },
+  {
+    "id": "AQ-04",
+    "name": "Long Beach Port",
+    "latitude": 33.7676,
+    "longitude": -118.1957,
+    "pm25": 21.8,
+    "ozone": 38,
+    "nox": 58,
+    "humidity": 68
+  },
+  {
+    "id": "AQ-05",
+    "name": "Hollywood Reservoir",
+    "latitude": 34.1249,
+    "longitude": -118.324,
+    "pm25": 13.1,
+    "ozone": 28,
+    "nox": 29,
+    "humidity": 51
+  },
+  {
+    "id": "AQ-06",
+    "name": "Inglewood Station",
+    "latitude": 33.9617,
+    "longitude": -118.3531,
+    "pm25": 16.9,
+    "ozone": 31,
+    "nox": 44,
+    "humidity": 57
+  },
+  {
+    "id": "AQ-07",
+    "name": "Boyle Heights Station",
+    "latitude": 34.0338,
+    "longitude": -118.2119,
+    "pm25": 19.4,
+    "ozone": 36,
+    "nox": 49,
+    "humidity": 52
+  },
+  {
+    "id": "AQ-08",
+    "name": "Van Nuys Monitoring",
+    "latitude": 34.1899,
+    "longitude": -118.4493,
+    "pm25": 15.6,
+    "ozone": 29,
+    "nox": 38,
+    "humidity": 43
+  },
+  {
+    "id": "AQ-09",
+    "name": "Pomona Fairplex",
+    "latitude": 34.0827,
+    "longitude": -117.7652,
+    "pm25": 20.8,
+    "ozone": 41,
+    "nox": 54,
+    "humidity": 48
+  },
+  {
+    "id": "AQ-10",
+    "name": "Torrance Refinery Belt",
+    "latitude": 33.835,
+    "longitude": -118.3137,
+    "pm25": 22.5,
+    "ozone": 34,
+    "nox": 62,
+    "humidity": 64
+  },
+  {
+    "id": "AQ-11",
+    "name": "Griffith Observatory Ridge",
+    "latitude": 34.1184,
+    "longitude": -118.3004,
+    "pm25": 12.4,
+    "ozone": 26,
+    "nox": 27,
+    "humidity": 44
+  },
+  {
+    "id": "AQ-12",
+    "name": "South Gate Corridor",
+    "latitude": 33.9443,
+    "longitude": -118.1927,
+    "pm25": 18.1,
+    "ozone": 33,
+    "nox": 57,
+    "humidity": 59
+  }
+]

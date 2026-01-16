@@ -1,0 +1,7 @@
+id,name,avgPm25,pollutionIndex,complaintsPerThousand,lon,lat
+1,Downtown LA,18.6,72,28,-118.2495,34.049
+2,Santa Monica,11.2,34,9,-118.495,34.0125
+3,Pasadena,14.7,48,15,-118.14,34.1525
+4,Inglewood,17.3,61,24,-118.35,33.955
+5,Long Beach,21.1,69,31,-118.205,33.785
+

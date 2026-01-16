@@ -1,0 +1,45 @@
+[
+  {
+    "destination": "New York (JFK)",
+    "latitude": 40.6413,
+    "longitude": -73.7781,
+    "passengersPerYear": 2100000,
+    "co2Tons": 980000
+  },
+  {
+    "destination": "San Francisco (SFO)",
+    "latitude": 37.6213,
+    "longitude": -122.379,
+    "passengersPerYear": 1670000,
+    "co2Tons": 420000
+  },
+  {
+    "destination": "Chicago (ORD)",
+    "latitude": 41.9742,
+    "longitude": -87.9073,
+    "passengersPerYear": 1410000,
+    "co2Tons": 610000
+  },
+  {
+    "destination": "Tokyo (HND)",
+    "latitude": 35.5494,
+    "longitude": 139.7798,
+    "passengersPerYear": 890000,
+    "co2Tons": 1450000
+  },
+  {
+    "destination": "London (LHR)",
+    "latitude": 51.47,
+    "longitude": -0.4543,
+    "passengersPerYear": 830000,
+    "co2Tons": 1520000
+  },
+  {
+    "destination": "Mexico City (MEX)",
+    "latitude": 19.4361,
+    "longitude": -99.0719,
+    "passengersPerYear": 760000,
+    "co2Tons": 510000
+  }
+]
+

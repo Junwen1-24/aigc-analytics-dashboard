@@ -1,0 +1,82 @@
+[
+  {
+    "country": "United States",
+    "iso3": "USA",
+    "isoNumeric": 840,
+    "co2MtPerCapita": 14.7,
+    "renewableShare": 13.1,
+    "avgPm25": 8.0,
+    "latitude": 37.0902,
+    "longitude": -95.7129
+  },
+  {
+    "country": "China",
+    "iso3": "CHN",
+    "isoNumeric": 156,
+    "co2MtPerCapita": 7.4,
+    "renewableShare": 26.2,
+    "avgPm25": 32.5,
+    "latitude": 35.8617,
+    "longitude": 104.1954
+  },
+  {
+    "country": "India",
+    "iso3": "IND",
+    "isoNumeric": 356,
+    "co2MtPerCapita": 1.9,
+    "renewableShare": 39.6,
+    "avgPm25": 51.1,
+    "latitude": 20.5937,
+    "longitude": 78.9629
+  },
+  {
+    "country": "Germany",
+    "iso3": "DEU",
+    "isoNumeric": 276,
+    "co2MtPerCapita": 8.1,
+    "renewableShare": 44.6,
+    "avgPm25": 11.3,
+    "latitude": 51.1657,
+    "longitude": 10.4515
+  },
+  {
+    "country": "Brazil",
+    "iso3": "BRA",
+    "isoNumeric": 76,
+    "co2MtPerCapita": 2.2,
+    "renewableShare": 83.0,
+    "avgPm25": 15.2,
+    "latitude": -14.235,
+    "longitude": -51.9253
+  },
+  {
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "isoNumeric": 710,
+    "co2MtPerCapita": 7.5,
+    "renewableShare": 9.2,
+    "avgPm25": 25.5,
+    "latitude": -30.5595,
+    "longitude": 22.9375
+  },
+  {
+    "country": "Norway",
+    "iso3": "NOR",
+    "isoNumeric": 578,
+    "co2MtPerCapita": 6.8,
+    "renewableShare": 74.5,
+    "avgPm25": 6.1,
+    "latitude": 60.472,
+    "longitude": 8.4689
+  },
+  {
+    "country": "Australia",
+    "iso3": "AUS",
+    "isoNumeric": 36,
+    "co2MtPerCapita": 15.4,
+    "renewableShare": 30.5,
+    "avgPm25": 7.4,
+    "latitude": -25.2744,
+    "longitude": 133.7751
+  }
+]
